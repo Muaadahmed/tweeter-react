@@ -11,9 +11,9 @@ function App() {
       <Navigation/>
       <Profile/>
       <main className="container">
+        <TweetForm/>
         <TweetList/>
       </main>
-      <TweetForm/>
     </div>
   );
 }

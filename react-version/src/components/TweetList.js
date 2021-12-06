@@ -1,6 +1,6 @@
 function TweetList() {
   return (
-    <section class="tweets">
+  <section class="tweets">
     <article class="tweet">
       <header class="tweet--header">
         <img class="tweet--avatar" src="https://i.imgur.com/73hZDYK.png" />
